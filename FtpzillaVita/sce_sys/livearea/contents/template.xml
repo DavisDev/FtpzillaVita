@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<livearea style="a1" format-ver="01.00">
+	<livearea-background>
+		<image>bg0.png</image>
+	</livearea-background>
+	<gate>
+		<startup-image>startup.png</startup-image>
+	</gate>
+	<frame id="frame1" multi="o" autoflip="0" >
+		<liveitem>
+			<image align="left" width="295" height="90" origin="frame">frame_icon.png</image>
+			<target>http://ONElua.x10.mx</target>
+		</liveitem>
+	</frame>
+	<frame id="frame3" multi="o" autoflip="0" >
+		<liveitem>
+			<text origin="background" line-align="center" margin-bottom="1">
+				<str size="25" bold="on" shadow="on">　</str>
+				<str size="40" bold="on" shadow="on">FTPzilla Vita - v0r9</str>
+				<str size="25" bold="on" shadow="on">　
+				</str>
+				<str size="21" bold="on" shadow="on">
+					FTPzilla Vita - The first FTP client for PlayStation®Vita.
+					®2017 Team ONElua - ONElua.x10.mx
+				</str>
+			</text>
+		</liveitem>
+	</frame>
+</livearea>
